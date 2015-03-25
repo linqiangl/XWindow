@@ -3,7 +3,7 @@
    ./xtester remote_windowid remote_displayname 
    compile with gcc xtester.c -o xtester -lXtst -lX11 */
    /*
-   xtester µÄ±àÒëÃüÁîÈçÏÂ:
+   xtester compile with below µÒëÃüÁîÈçÏÂ:
 
 ¡¡¡¡gcc xtester.c-o xtester -lXtst -lX11 -L/usr/X11R6/lib
    */
